@@ -11,7 +11,7 @@
         <p>建议京东账户绑定微信以保证提现能到账。</p>
         <p>由于京东异地登录限制，扫码获取cookie只有2小时有效期，因此暂时关闭扫码功能，现需手动抓取Cookie。</p>
         <p>且有效期不长，平均3-5天，因此需要及时更新。</p>
-        <b>安全起见，WSCK可以在CK登录后录入，期限半永久。</b>
+        <b>cookie获取工具https://wwe.lanzoui.com/icpaIvxnpif密码:awc5</b>
       </div>
       <div class="card-footet"></div>
     </div>
